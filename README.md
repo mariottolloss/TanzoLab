@@ -2,30 +2,26 @@
 
 Info su http://www.acmesystems.it/tanzolab
 
-### /TanzoBot
+### LedLampBot
+
+Bot Telegram per la gestione del cubo di led RGB come lampada
+
+### TanzoBot
 
 Codice sorgente in Python del demo TanzoBot
 
-### /gpio
+### gpio
 
 Esempi di gestione delle gpio
 
-### /pwm
+### pwm
 
 Esempi di generazione di segnali PWM per servomotori RC per Arietta G25
 e Raspberry Pi
 
-### /python-telegram-bot
+### python-telegram-bot
 
 Esempi di Bot Telegram realizzati con la libreria python-telegram-bot
-
-### /telepot
-
-Esempi di Bot Telegram realizzati con la libreria telepot
-
-### /LedLampBot
-
-Bot Telegram per la gestione del cubo di led RGB come lampada
 
 ### /tanzocheck
 
@@ -42,6 +38,10 @@ comando __/otp__ che se usata da altri utenti abilita l'accesso al Bot
 come utenti normali
 * Il super utente puo' anche revocare l'autorizzazione a tutti gli utenti
 con il comando __/userdel__
+
+### telepot
+
+Esempi di Bot Telegram realizzati con la libreria telepot
 
 <hr/>
 
