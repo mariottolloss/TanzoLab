@@ -23,7 +23,7 @@ e Raspberry Pi
 
 Esempi di Bot Telegram realizzati con la libreria python-telegram-bot
 
-### /tanzocheck
+### tanzocheck
 
 Modulo di autorizzazione tanzocheck.py per Bot Telegramm realizzati 
 con python-telegram-bot
